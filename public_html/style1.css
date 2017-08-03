@@ -1,0 +1,31 @@
+	caption {
+    caption-side: bottom;
+}
+		th{
+		border: 10px;
+		border-color:#D3D3D3;
+		border-style:inset;
+		border-width:2px;
+		color: #32CD32;
+			<!-- text-align:center; -->
+		
+				}
+		td{
+		border: 1px;
+		border-color:#D3D3D3;
+		border-style:inset;
+		text-align:center;
+				padding:50px 100px 15px 15px;
+		text-align:left; 
+		
+			}
+		table{
+		float:right;
+		background-color:#FFFACD;
+		border: 7px;
+		border-color:#D3D3D3;
+		border-spacing: 10px 20px;
+
+
+box-shadow:0 0 10px 4px #0000FF , 0 0 20px 30px #008000, 30px 0 20px 30px #FF1493, -30px -30px 20px 30px #FF4500; 
+					}
